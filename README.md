@@ -1,7 +1,7 @@
 # Portfolio Website 
 
 ## Project Overview
-This project was created as part of the Coursera HTML and CSS course. It is a personal portfolio website built using basic HTML and CSS, showcasing my understanding of web structure and styling principles. The project focuses on clean layout, interactivity, and user engagement through subtle design features.
+This project was created as part of the HTML and CSS course. It is a personal portfolio website built using basic HTML and CSS, showcasing my understanding of web structure and styling principles. The project focuses on clean layout, interactivity, and user engagement through subtle design features.
 
 ## Features
 - **Responsive Design:** Structured layout that adapts to different screen sizes.
